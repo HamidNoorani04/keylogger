@@ -1,9 +1,7 @@
 
 # 🔑 Python Keylogger – Created by Abdul Hamid Noorani
 
-## 📧 hamidnoorani04@gmail.com 
-🔗 [GitHub](https://github.com/HamidNoorani04)
-🔗 [LinkedIn](https://linkedin.com/in/abdul-hamid-noorani-37258a351)
+### 📧 hamidnoorani04@gmail.com 🔗 [GitHub](https://github.com/HamidNoorani04)🔗 [LinkedIn](https://linkedin.com/in/abdul-hamid-noorani-37258a351)
 
 
 This is a simple keylogger script written in Python using the `pynput` library. It records every keystroke pressed on the keyboard and saves it to a log file (`keylogger_generated_by_hamid.txt`).
